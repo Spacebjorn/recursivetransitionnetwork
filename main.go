@@ -4,8 +4,8 @@ import (
 	"math/rand"
 	"time"
 
-	"./fancynoun"
-	"./wordlist"
+	"github.com/Spacebjorn/recursivetransitionnetwork/fancynoun"
+	"github.com/Spacebjorn/recursivetransitionnetwork/wordlist"
 )
 
 func main() {

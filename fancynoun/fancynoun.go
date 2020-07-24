@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"strings"
 
-	"../wordlist"
+	"github.com/Spacebjorn/recursivetransitionnetwork/wordlist"
 )
 
 type FancyNoun struct {
