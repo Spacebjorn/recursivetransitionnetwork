@@ -15,8 +15,6 @@ type FancyNoun struct {
 	Nouns            wordlist.WordList
 	Verbs            wordlist.WordList
 	Prepositions     wordlist.WordList
-	ornateNoun       string
-	fancyNoun        string
 }
 
 func (fn *FancyNoun) LoadWords() {
